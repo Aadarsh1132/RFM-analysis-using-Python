@@ -28,9 +28,22 @@ Now we create and analyze RFM Customer Segments that are broader classifications
 
 <img width="559" alt="Screenshot 2024-02-12 033511" src="https://github.com/Aadarsh1132/RFM-analysis-using-Python/assets/133105879/5166caa1-a94a-4478-9f20-a9b84daf313d">
 
+**Analyzing the distribution of customers across different RFM customer segments within each value segment**
 
+<img width="670" alt="RFM segments by value" src="https://github.com/Aadarsh1132/RFM-analysis-using-Python/assets/133105879/6c34c75b-d1e9-4878-86ed-11462167302a">
 
+**Analyzing the distribution of RFM values within the Champions segment**
 
+<img width="740" alt="dist within champion segment" src="https://github.com/Aadarsh1132/RFM-analysis-using-Python/assets/133105879/a033ee70-d0d5-4809-bbcb-aa371f126aee">
+
+**Analyzing the correlation of the recency, frequency, and monetary scores within the champions segment**
+<img width="626" alt="Screenshot 2024-02-12 033957" src="https://github.com/Aadarsh1132/RFM-analysis-using-Python/assets/133105879/5b9198f6-44fc-45af-b45a-344a6311dc5c">
+
+**The number of customers in all the segments**
+<img width="693" alt="comparison of RFM segments" src="https://github.com/Aadarsh1132/RFM-analysis-using-Python/assets/133105879/55e8f89b-32bc-4ea6-a6f3-27b5f211f8a5">
+
+** The recency, frequency, and monetary scores of all the segments**
+<img width="722" alt="Comparison based on rec,freq,monetary" src="https://github.com/Aadarsh1132/RFM-analysis-using-Python/assets/133105879/44ef17b3-bddf-4c96-93c1-9a46dd77c633">
 
 
 
