@@ -23,6 +23,11 @@ After calculating the RFM scores, we created RFM segments based on the scores. W
 
 !(<img width="470" alt="Screenshot 2024-02-12 024804" src="https://github.com/Aadarsh1132/RFM-analysis-using-Python/assets/133105879/5ae8d123-4691-4bd4-8d14-3d60d78b0dce">)
 
+Now we create and analyze RFM Customer Segments that are broader classifications based on the RFM scores. These segments, such as “Champions”, “Potential Loyalists”, and “Can’t Lose” provide a more strategic perspective on customer behaviour and characteristics in terms of recency, frequency, and monetary aspects.
+
+
+<img width="559" alt="Screenshot 2024-02-12 033511" src="https://github.com/Aadarsh1132/RFM-analysis-using-Python/assets/133105879/5166caa1-a94a-4478-9f20-a9b84daf313d">
+
 
 
 
