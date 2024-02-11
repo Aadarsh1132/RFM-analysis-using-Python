@@ -17,3 +17,8 @@ We assigned scores from 1 to 5 to calculate the frequency score, where a higher 
 To calculate the monetary score, we assigned scores from 1 to 5, where a higher score indicates a higher amount spent by the customer.
 
 **To calculate the RFM score, we add the scores obtained for recency, frequency and monetary value. For example, if a customer has a recency score of 3, a frequency score of 4, and a monetary score of 5, their RFM score will be 12.**
+
+
+After calculating the RFM scores, we created RFM segments based on the scores. We divided RFM scores into three segments, namely “Low-Value”, “Mid-Value”, and “High-Value”.
+
+![Example Image](RFM segments by value.png)
