@@ -21,7 +21,7 @@ To calculate the monetary score, we assigned scores from 1 to 5, where a higher 
 
 After calculating the RFM scores, we created RFM segments based on the scores. We divided RFM scores into three segments, namely “Low-Value”, “Mid-Value”, and “High-Value”.
 
-!(<img width="693" alt="comparison of RFM segments" src="https://github.com/Aadarsh1132/RFM-analysis-using-Python/assets/133105879/aac20001-bcec-4672-931c-df5fd62a8c7a">)
+!(<img width="470" alt="Screenshot 2024-02-12 024804" src="https://github.com/Aadarsh1132/RFM-analysis-using-Python/assets/133105879/5ae8d123-4691-4bd4-8d14-3d60d78b0dce">)
 
 
 
